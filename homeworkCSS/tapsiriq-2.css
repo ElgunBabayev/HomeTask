@@ -1,0 +1,58 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.party img
+{
+    width: 100%;
+    padding: 20px 15px;
+    position: relative;
+}
+
+.about 
+{
+    background-color: rgba(0, 139, 139, 0.9);
+    width: 55%;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+    border-radius: 15px;
+    bottom: 500px;
+    left:24%;
+    text-align: center;
+    padding: 20px;
+
+}
+.about-a
+{
+    padding-top: 20px;
+}
+
+.about .about-a span
+{
+    
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-style: italic;
+    color:ivory;
+    margin:10px;
+   
+}
+
+.about .about-a span i
+{
+    color:darkslategrey;
+}
+
+.about h1
+{
+    padding:40px 60px;
+    font-style: italic;
+    color:ivory;
+    font-size: 42px;
+}
+
+
